@@ -26,9 +26,33 @@ return array(
 		'version' => '2.11.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php'
 	),
-	'Jetpack_Videopress' => array(
+	'Jetpack_Videopress_Plugin' => array(
 		'version' => 'dev-trunk',
-		'path'    => $baseDir . '/src/class-jetpack-videopress.php'
+		'path'    => $baseDir . '/src/class-jetpack-videopress-plugin.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\Module_Control' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-module-control.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\Status' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-status.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\WPCOM_REST_API_V2_Endpoint_VideoPress' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-wpcom-rest-api-v2-endpoint-videopress.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\Options' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-options.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\XMLRPC' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-xmlrpc.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\Initializer' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initializer.php'
 	),
 	'Automattic\\Jetpack\\Sync\\Functions' => array(
 		'version' => '1.37.9999999.9999999-dev',
@@ -341,6 +365,14 @@ return array(
 	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
+	),
+	'Automattic\\Jetpack\\Plans' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-plans/src/class-plans.php'
+	),
+	'Automattic\\Jetpack\\Current_Plan' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-plans/src/class-current-plan.php'
 	),
 	'Automattic\\Jetpack\\Password_Checker' => array(
 		'version' => '0.2.9999999.9999999-dev',
