@@ -157,6 +157,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ0_1_1_alph
         'Automattic\\Jetpack\\Sync\\Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-utils.php',
         'Automattic\\Jetpack\\Terms_Of_Service' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-terms-of-service.php',
         'Automattic\\Jetpack\\Tracking' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php',
+        'Automattic\\Jetpack\\VideoPress\\AJAX' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-ajax.php',
         'Automattic\\Jetpack\\VideoPress\\Initializer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initializer.php',
         'Automattic\\Jetpack\\VideoPress\\Module_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-module-control.php',
         'Automattic\\Jetpack\\VideoPress\\Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-options.php',
@@ -172,6 +173,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ0_1_1_alph
         'Jetpack_Tracks_Event' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
         'Jetpack_Videopress_Plugin' => __DIR__ . '/../..' . '/src/class-jetpack-videopress-plugin.php',
         'Jetpack_XMLRPC_Server' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
+        'VIDEOPRESS_PRIVACY' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/utility-functions.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

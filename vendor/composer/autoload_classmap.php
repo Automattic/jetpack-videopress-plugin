@@ -138,6 +138,7 @@ return array(
     'Automattic\\Jetpack\\Sync\\Utils' => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-utils.php',
     'Automattic\\Jetpack\\Terms_Of_Service' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-terms-of-service.php',
     'Automattic\\Jetpack\\Tracking' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php',
+    'Automattic\\Jetpack\\VideoPress\\AJAX' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-ajax.php',
     'Automattic\\Jetpack\\VideoPress\\Initializer' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initializer.php',
     'Automattic\\Jetpack\\VideoPress\\Module_Control' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-module-control.php',
     'Automattic\\Jetpack\\VideoPress\\Options' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-options.php',
@@ -153,4 +154,5 @@ return array(
     'Jetpack_Tracks_Event' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
     'Jetpack_Videopress_Plugin' => $baseDir . '/src/class-jetpack-videopress-plugin.php',
     'Jetpack_XMLRPC_Server' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
+    'VIDEOPRESS_PRIVACY' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/utility-functions.php',
 );

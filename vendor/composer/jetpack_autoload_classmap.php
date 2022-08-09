@@ -34,6 +34,10 @@ return array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-module-control.php'
 	),
+	'VIDEOPRESS_PRIVACY' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/utility-functions.php'
+	),
 	'Automattic\\Jetpack\\VideoPress\\Status' => array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-status.php'
@@ -49,6 +53,10 @@ return array(
 	'Automattic\\Jetpack\\VideoPress\\XMLRPC' => array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-xmlrpc.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\AJAX' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-ajax.php'
 	),
 	'Automattic\\Jetpack\\VideoPress\\Initializer' => array(
 		'version' => '0.1.9999999.9999999-dev',
