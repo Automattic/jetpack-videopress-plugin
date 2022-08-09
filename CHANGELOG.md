@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - E2E tests: fixed pretest cleanup script not running
+- Use unique name for VideoPress e2e tests package
 
 ## 0.1.0 - 2022-07-06
 ### Added
