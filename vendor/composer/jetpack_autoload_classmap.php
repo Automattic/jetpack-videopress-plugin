@@ -30,9 +30,17 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-videopress-plugin.php'
 	),
+	'Automattic\\Jetpack\\VideoPress\\Jwt_Token_Bridge' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-jwt-token-bridge.php'
+	),
 	'Automattic\\Jetpack\\VideoPress\\Module_Control' => array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-module-control.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\Attachment_Handler' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-attachment-handler.php'
 	),
 	'VIDEOPRESS_PRIVACY' => array(
 		'version' => '0.1.9999999.9999999-dev',
@@ -61,6 +69,10 @@ return array(
 	'Automattic\\Jetpack\\VideoPress\\Initializer' => array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initializer.php'
+	),
+	'Automattic\\Jetpack\\VideoPress\\Package_Version' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Sync\\Functions' => array(
 		'version' => '1.37.9999999.9999999-dev',
