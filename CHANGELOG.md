@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Initialize VideoPress package from the Config pkg
+- VideoPress plugin: minor doc improvement
 
 ### Fixed
 - E2E tests: fixed pretest cleanup script not running
