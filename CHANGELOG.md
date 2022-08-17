@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Initialize VideoPress package from the Config pkg
+- VideoPress: update pkg version
 - VideoPress plugin: minor doc improvement
 
 ### Fixed

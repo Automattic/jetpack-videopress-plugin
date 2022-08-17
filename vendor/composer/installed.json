@@ -1130,7 +1130,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-videopress",
-                "reference": "84c6cfccd139f25f2d754cebcf03b0cb87da37a0"
+                "reference": "b3b33c60eeb73bbb882d956ae6961a2a2d15d735"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -1173,7 +1173,7 @@
                     "@composer phpunit"
                 ],
                 "build-production": [
-                    "pnpm run build"
+                    "NODE_ENV=production BABEL_ENV=production pnpm run build"
                 ],
                 "build-development": [
                     "pnpm run build"
