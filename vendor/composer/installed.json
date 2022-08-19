@@ -1130,9 +1130,10 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-videopress",
-                "reference": "a052c8fd90777a7f3c6bd35ea8b0276fc6eba5bc"
+                "reference": "adc1fb40bde0dd6f9469a467312247c3fe263a53"
             },
             "require": {
+                "automattic/jetpack-admin-ui": "^0.2",
                 "automattic/jetpack-assets": "^1.17",
                 "automattic/jetpack-connection": "^1.42",
                 "automattic/jetpack-plans": "^0.2"
