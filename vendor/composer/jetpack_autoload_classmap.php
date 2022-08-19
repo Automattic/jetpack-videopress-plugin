@@ -26,7 +26,7 @@ return array(
 		'version' => '2.11.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadProcessor.php'
 	),
-	'Jetpack_Videopress_Plugin' => array(
+	'Jetpack_VideoPress_Plugin' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-videopress-plugin.php'
 	),

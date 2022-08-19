@@ -155,7 +155,7 @@ return array(
     'Jetpack_Signature' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-signature.php',
     'Jetpack_Tracks_Client' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php',
     'Jetpack_Tracks_Event' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
-    'Jetpack_Videopress_Plugin' => $baseDir . '/src/class-jetpack-videopress-plugin.php',
+    'Jetpack_VideoPress_Plugin' => $baseDir . '/src/class-jetpack-videopress-plugin.php',
     'Jetpack_XMLRPC_Server' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
     'VIDEOPRESS_PRIVACY' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/utility-functions.php',
 );
