@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Migrate VideoPress block to pkg
+- My Jetpack includes JITMs
 
 ### Changed
 - Activation: only redirect when activating from the Plugins page in the browser
