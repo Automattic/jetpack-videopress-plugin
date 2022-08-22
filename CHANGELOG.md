@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Activation: only redirect when activating from the Plugins page in the browser
+- E2E tests: bump dependencies
 - Initialize VideoPress admin UI from the package
 - Initialize VideoPress package from the Config pkg
 - VideoPress: move client-source files from plugin to package
