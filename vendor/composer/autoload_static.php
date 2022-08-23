@@ -173,6 +173,8 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ0_2_0_alph
         'Automattic\\Jetpack\\VideoPress\\Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-options.php',
         'Automattic\\Jetpack\\VideoPress\\Package_Version' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-package-version.php',
         'Automattic\\Jetpack\\VideoPress\\Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-status.php',
+        'Automattic\\Jetpack\\VideoPress\\Upload_Exception' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-upload-exception.php',
+        'Automattic\\Jetpack\\VideoPress\\Uploader' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-uploader.php',
         'Automattic\\Jetpack\\VideoPress\\WPCOM_REST_API_V2_Endpoint_VideoPress' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-wpcom-rest-api-v2-endpoint-videopress.php',
         'Automattic\\Jetpack\\VideoPress\\XMLRPC' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-xmlrpc.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
@@ -185,6 +187,13 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ0_2_0_alph
         'Jetpack_VideoPress_Plugin' => __DIR__ . '/../..' . '/src/class-jetpack-videopress-plugin.php',
         'Jetpack_XMLRPC_Server' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
         'VIDEOPRESS_PRIVACY' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/utility-functions.php',
+        'VideoPressUploader\\File_Exception' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-file-exception.php',
+        'VideoPressUploader\\Transient_Store' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-transient-store.php',
+        'VideoPressUploader\\Tus_Abstract_Cache' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-tus-abstract-cache.php',
+        'VideoPressUploader\\Tus_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-tus-client.php',
+        'VideoPressUploader\\Tus_Date_Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-tus-date-utils.php',
+        'VideoPressUploader\\Tus_Exception' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-tus-exception.php',
+        'VideoPressUploader\\Tus_File' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/tus/class-tus-file.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

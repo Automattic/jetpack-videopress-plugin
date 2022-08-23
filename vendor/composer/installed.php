@@ -214,7 +214,7 @@
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-videopress',
             'aliases' => array(),
-            'reference' => '9fb3dce8e1b8e59aa9ab26432b37e1488372f9c8',
+            'reference' => '729854b6a80532824839076156380b9e0012a262',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-videopress-plugin' => array(

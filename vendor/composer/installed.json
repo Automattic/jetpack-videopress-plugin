@@ -1311,7 +1311,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-videopress",
-                "reference": "9fb3dce8e1b8e59aa9ab26432b37e1488372f9c8"
+                "reference": "729854b6a80532824839076156380b9e0012a262"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.2",
@@ -1321,6 +1321,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.2",
+                "automattic/wordbless": "@dev",
                 "brain/monkey": "2.6.1",
                 "yoast/phpunit-polyfills": "1.0.3"
             },
@@ -1364,6 +1365,9 @@
                 "watch": [
                     "Composer\\Config::disableProcessTimeout",
                     "pnpm run watch"
+                ],
+                "post-update-cmd": [
+                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
                 ]
             },
             "license": [
