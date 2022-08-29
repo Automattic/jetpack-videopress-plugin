@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - VideoPress: move client-source files from plugin to package
 - VideoPress: update names using VideoPress name (capital P)
 - VideoPress: update pkg version
+- VideoPress: update to the lastest changes of the VideoPress pkg API
 - VideoPress plugin: minor doc improvement
 
 ### Fixed
