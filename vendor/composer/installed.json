@@ -1311,7 +1311,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-videopress",
-                "reference": "527e36890f24cab837ff4e6eaee0ba47f60325f9"
+                "reference": "7cd8120551e0b6b85940c14589a5347a8afea110"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.2",
@@ -1355,6 +1355,9 @@
                 ],
                 "test-php": [
                     "@composer phpunit"
+                ],
+                "test-js": [
+                    "pnpm run test"
                 ],
                 "build-production": [
                     "NODE_ENV=production BABEL_ENV=production pnpm run build"
