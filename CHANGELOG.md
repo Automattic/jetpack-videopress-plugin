@@ -27,6 +27,9 @@ This is an alpha version! The changes listed here are not final.
 - VideoPress: update to the lastest changes of the VideoPress pkg API
 - VideoPress plugin: minor doc improvement
 
+### Removed
+- E2E tests: removed deprecated Slack notification code
+
 ### Fixed
 - E2E tests: fixed pretest cleanup script not running
 - Use unique name for VideoPress e2e tests package
