@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Adds ability to autotag, autorelease and autopublish releases
+- Included `watch` script on composer file to run the packages/videopress watch command.
 - Migrate VideoPress block to pkg
 - My Jetpack includes JITMs
 - VideoPress needs everything in Sync
