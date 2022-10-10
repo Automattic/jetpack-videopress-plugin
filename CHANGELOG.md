@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - VideoPress: update names using VideoPress name (capital P)
 - VideoPress: update pkg version
 - VideoPress: update to the lastest changes of the VideoPress pkg API
+- VideoPress: use register_videopress_blocks() to register VideoPress video block
 - VideoPress plugin: minor doc improvement
 
 ### Removed
