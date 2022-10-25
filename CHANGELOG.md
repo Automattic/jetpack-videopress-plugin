@@ -5,55 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.2.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.0.0 - 2022-10-25
 ### Added
-- Adds ability to autotag, autorelease and autopublish releases
-- E2E tests: use CI build artifacts in e2e tests
-- Included `watch` script on composer file to run the packages/videopress watch command.
-- Migrate VideoPress block to pkg
-- My Jetpack includes JITMs
-- VideoPress needs everything in Sync
+- Initial release.
 
-### Changed
-- Activation: only redirect when activating from the Plugins page in the browser
-- Change VideoPress into a Hybrid product in My Jetpack
-- E2E tests: bump dependencies
-- Initialize VideoPress admin UI from the package
-- Initialize VideoPress package from the Config pkg
-- VideoPress: move client-source files from plugin to package
-- VideoPress: update names using VideoPress name (capital P)
-- VideoPress: update pkg version
-- VideoPress: update to the lastest changes of the VideoPress pkg API
-- VideoPress: use register_videopress_blocks() to register VideoPress video block
-- VideoPress plugin: minor doc improvement
-
-### Removed
-- E2E tests: removed deprecated Slack notification code
-
-### Fixed
-- E2E tests: fixed pretest cleanup script not running
-- Use unique name for VideoPress e2e tests package
-
-## 0.1.0 - 2022-07-06
-### Added
-- Add activation and deactivation hooks. [#24250]
-- E2E tests boilerplate. [#24723]
-- Enable beta plugin support. [#23836]
-- Initial release. [#23434]
-
-### Changed
-- Changed the method used to disconnect. [#24299]
-- Configure Sync with the minimal amount of data. [#23759]
-- Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out. [#24083]
-- Remove use of `pnpx` in preparation for pnpm 7.0. [#24210]
-- Renaming master to trunk. [#24661]
-- Renaming `master` references to `trunk`. [#24712]
-- Reorder JS imports for `import/order` eslint rule. [#24601]
-- Updated package dependencies.
-
-### Fixed
-- Jetpack CLI: correctly replace project description and release-branch-prefix. [#23911]
-- Updated .gitattributes file so it is able to build properly by the CI build jobs. [#23591]
