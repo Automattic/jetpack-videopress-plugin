@@ -168,6 +168,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ1_0_1_alph
         'Automattic\\Jetpack\\VideoPress\\AJAX' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-ajax.php',
         'Automattic\\Jetpack\\VideoPress\\Admin_UI' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-admin-ui.php',
         'Automattic\\Jetpack\\VideoPress\\Attachment_Handler' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-attachment-handler.php',
+        'Automattic\\Jetpack\\VideoPress\\Block_Editor_Extensions' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-block-editor-extensions.php',
         'Automattic\\Jetpack\\VideoPress\\Data' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-data.php',
         'Automattic\\Jetpack\\VideoPress\\Initializer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initializer.php',
         'Automattic\\Jetpack\\VideoPress\\Jwt_Token_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-jwt-token-bridge.php',
