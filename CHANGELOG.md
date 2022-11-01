@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Compatibility: WordPress 6.1 compatibility
+- Updated package dependencies.
 
 ## 1.0.0 - 2022-10-25
 ### Added
