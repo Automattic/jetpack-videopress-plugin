@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Compatibility: WordPress 6.1 compatibility
 - Updated package dependencies.
 
+### Fixed
+- VideoPress: Fix contributor username
+
 ## 1.0.0 - 2022-10-25
 ### Added
 - Initial release.
