@@ -4,10 +4,10 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-admin-ui": "^0.2.13-alpha",
-		"automattic/jetpack-assets": "^1.17.26-alpha",
-		"automattic/jetpack-connection": "^1.46.4-alpha",
-		"automattic/jetpack-plans": "^0.2.7-alpha"
+		"automattic/jetpack-admin-ui": "^0.2.13",
+		"automattic/jetpack-assets": "^1.17.26",
+		"automattic/jetpack-connection": "^1.46.4",
+		"automattic/jetpack-plans": "^0.2.7"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.3",
