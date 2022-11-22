@@ -5,8 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.1.0-beta - 2022-11-22
+## 1.2.0-alpha - unreleased
 
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Bump version to 1.2.0-alpha
+
+## 1.1.0-beta - 2022-11-22
 ### Added
 - Added VideoPress feedback link to the VideoPress block.
 - Added Download, Details, Privacy, Rating and Dimensions panel to block.
@@ -15,13 +21,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added thumbnail selection from video frame on quick action and in edit details view for the admin page.
 
 ### Changed
-
 - Updated Color Panel on block.
 - Allowed keyboard navigation on video quick actions.
 - Renamed "Match video title" setting for "Dynamic color" in block settings panel.
 
 ### Fixed
-
 - Fixed recognition of Jetpack Complete plan.
 - Fixed issue when setting video privacy.
 - Introduced a static list of video extensions allowed on VideoPress.
@@ -30,7 +34,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Site Settings section for controlling site-wide privacy for videos.
 
 ## 1.0.0 - 2022-10-25
-
 ### Added
 - Initial release.
-
