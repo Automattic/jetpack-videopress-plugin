@@ -4,20 +4,20 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^1.17.27",
-		"automattic/jetpack-autoloader": "^2.11.12",
-		"automattic/jetpack-composer-plugin": "^1.1.6",
+		"automattic/jetpack-assets": "^1.17.28-alpha",
+		"automattic/jetpack-autoloader": "^2.11.13-alpha",
+		"automattic/jetpack-composer-plugin": "^1.1.7-alpha",
 		"automattic/jetpack-config": "^1.11.1",
-		"automattic/jetpack-connection": "^1.47.0",
-		"automattic/jetpack-identity-crisis": "^0.8.32",
-		"automattic/jetpack-my-jetpack": "^2.5.1",
-		"automattic/jetpack-sync": "^1.44.0",
-		"automattic/jetpack-plugins-installer": "^0.2.1",
+		"automattic/jetpack-connection": "^1.47.1-alpha",
+		"automattic/jetpack-identity-crisis": "^0.8.33-alpha",
+		"automattic/jetpack-my-jetpack": "^2.5.2-alpha",
+		"automattic/jetpack-sync": "^1.44.1-alpha",
+		"automattic/jetpack-plugins-installer": "^0.2.2-alpha",
 		"automattic/jetpack-videopress": "^0.8.3-alpha"
 	},
 	"require-dev": {
-		"yoast/phpunit-polyfills": "1.0.3",
-		"automattic/jetpack-changelogger": "^3.2.1",
+		"yoast/phpunit-polyfills": "1.0.4",
+		"automattic/jetpack-changelogger": "^3.2.2-alpha",
 		"automattic/wordbless": "0.4.0"
 	},
 	"autoload": {

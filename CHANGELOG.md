@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Bump version to 1.2.0-alpha
 
+### Changed
+- Updated package dependencies.
+
 ## 1.1.0-beta - 2022-11-22
 ### Added
 - Added VideoPress feedback link to the VideoPress block.
