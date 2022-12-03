@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated package dependencies.
+
 ## 1.2.0-beta - 2022-12-02
 ### Added
 - Added a static image for when the block acts as an example in Editor inserter.
