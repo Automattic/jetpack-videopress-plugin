@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update playwright dependency
 
 ## 1.2.0 - 2022-12-05
 ### Added
