@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update to React 18.
 
 ## 1.3.0 - 2023-01-18
 ### Added
