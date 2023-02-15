@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Prerelease
 
 ### Changed
+- Remove `ci.targets` from package.json. Better scoping of e2e tests.
 - Updated package dependencies.
 - Update to React 18.
 
