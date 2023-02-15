@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.2.16",
 		"automattic/jetpack-assets": "^1.17.31",
-		"automattic/jetpack-connection": "^1.50.2-alpha",
+		"automattic/jetpack-connection": "^1.51.0-alpha",
 		"automattic/jetpack-plans": "^0.2.9"
 	},
 	"require-dev": {
