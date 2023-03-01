@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove `ci.targets` from package.json. Better scoping of e2e tests.
+- Updated package dependencies.
 
 ## 1.4.0 - 2023-02-15
 ### Added
