@@ -44,6 +44,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.2.3',
     ),
+    'jetpack-stats' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-stats',
+      'ver' => '0.5.2',
+    ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '1.47.3',
