@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - VideoPress: Added Stats module as a requirement for the plugin and enabled it on plugin activation.
 
+### Changed
+- Updated package dependencies.
+
 ## 1.5 - 2023-03-22
 ### Added
 - Added request and update video poster functionality
