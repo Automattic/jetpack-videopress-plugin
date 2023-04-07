@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- VideoPress: Do not force-enable the Stats module inside the VideoPress plugin.
 
 ## 1.5 - 2023-03-22
 ### Added
