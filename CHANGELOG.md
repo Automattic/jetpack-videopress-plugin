@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update WordPress version requirements. Now requires version 6.1.
 - VideoPress: Do not force-enable the Stats module inside the VideoPress plugin.
 
 ## 1.5 - 2023-03-22
