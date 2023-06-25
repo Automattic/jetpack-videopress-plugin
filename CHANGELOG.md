@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add authentication to zendesk chat widget
 - VideoPress: Added Stats module as a requirement for the plugin and enabled it on plugin activation.
 
 ### Changed
