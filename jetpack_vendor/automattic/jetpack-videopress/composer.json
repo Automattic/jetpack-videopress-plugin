@@ -6,12 +6,12 @@
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.2.20",
 		"automattic/jetpack-assets": "^1.18.7",
-		"automattic/jetpack-connection": "^1.54.0-alpha",
+		"automattic/jetpack-connection": "^1.54.0",
 		"automattic/jetpack-plans": "^0.3.3"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.7-alpha",
+		"automattic/jetpack-changelogger": "^3.3.7",
 		"automattic/wordbless": "@dev",
 		"brain/monkey": "2.6.1"
 	},
