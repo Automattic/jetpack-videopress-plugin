@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.2.21",
-		"automattic/jetpack-assets": "^1.18.10-alpha",
-		"automattic/jetpack-connection": "^1.57.2-alpha",
+		"automattic/jetpack-assets": "^1.18.10",
+		"automattic/jetpack-connection": "^1.57.2",
 		"automattic/jetpack-plans": "^0.3.4"
 	},
 	"require-dev": {
