@@ -50,11 +50,11 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.57.2',
+      'ver' => '1.57.3-alpha1695757092',
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
-      'ver' => '0.17.1',
+      'ver' => '0.17.2-alpha1695757092',
     ),
   ),
 );
