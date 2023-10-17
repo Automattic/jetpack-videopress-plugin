@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - VideoPress: Added Stats module as a requirement for the plugin and enabled it on plugin activation.
 
 ### Changed
+- Bump WordPress tested version
 - General: indicate full compatibility with the latest version of WordPress, 6.3.
 - General: update WordPress version requirements to WordPress 6.2.
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
