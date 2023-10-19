@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Bump WordPress tested version
+- Updated package dependencies.
 
 ## 1.6-beta - 2023-10-17
 ### Added
