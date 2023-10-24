@@ -7,7 +7,7 @@
 		"automattic/jetpack-admin-ui": "^0.2.23",
 		"automattic/jetpack-assets": "^1.18.13",
 		"automattic/jetpack-connection": "^1.58.2",
-		"automattic/jetpack-plans": "^0.3.4"
+		"automattic/jetpack-plans": "^0.3.5-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
