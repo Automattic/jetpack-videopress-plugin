@@ -4,14 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 1.7-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## 1.6-beta - 2023-10-17
 ### Added
-
 - Added Divi Builder Compatibility.
 - Added play button when the video block Show controls and Preview On Hover are enabled.
 - Pick video block attributes from URL when pasting/inserting.
 - Integrated video poster with Preview On Hover effect.
-
 
 ### Changed
 - Indicate full compatibility with WordPress 6.3
@@ -29,11 +31,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Video block: Handle uploading video files when dropping in the editor canvas.
 
 ### Security
-
 - Escape VideoPress attributes poster, and anchor when rendering block.
 
 ### Fixed
-
 - Added a Notice when trying to edit a video that doesn't belong to the site.
 - Added error handling for track files upload process.
 - Handle block registration in the REST API request context.
