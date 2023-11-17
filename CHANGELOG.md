@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Bump WordPress tested version
+- General: updated PHP requirement to PHP 7.0+
 - General: update WordPress version requirements to WordPress 6.3.
 - Updated package dependencies.
 - Update lockfile
