@@ -22,6 +22,8 @@ class ComposerAutoloaderInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ1_7_al
             return self::$loader;
         }
 
+        require __DIR__ . '/platform_check.php';
+
         spl_autoload_register(array('ComposerAutoloaderInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ1_7_alpha', 'loadClassLoader'), true, true);
         self::$loader = $loader = new \Composer\Autoload\ClassLoader(\dirname(__DIR__));
         spl_autoload_unregister(array('ComposerAutoloaderInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ1_7_alpha', 'loadClassLoader'));
