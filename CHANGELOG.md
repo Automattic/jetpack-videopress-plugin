@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 1.8-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## 1.7 - 2023-11-21
 ### Changed
 - Updated WordPress tested version to 6.4.
