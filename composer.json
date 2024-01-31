@@ -13,7 +13,7 @@
 		"automattic/jetpack-my-jetpack": "^4.7.1-alpha",
 		"automattic/jetpack-sync": "^2.5.0-alpha",
 		"automattic/jetpack-plugins-installer": "^0.3.1",
-		"automattic/jetpack-videopress": "^0.22.4"
+		"automattic/jetpack-videopress": "^0.23.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
