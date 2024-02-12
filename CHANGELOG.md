@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added a new site option not related to VideoPress...
+
 ### Changed
 - Updated package dependencies.
 
