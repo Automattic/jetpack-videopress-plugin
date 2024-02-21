@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - Added a new site option not related to VideoPress...
 
 ### Changed
+- General: indicate compatibility with the upcoming version of WordPress, 6.5.
 - Updated package dependencies.
 - Update package lock
 
