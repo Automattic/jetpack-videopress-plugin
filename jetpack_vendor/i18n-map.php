@@ -58,11 +58,11 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '2.10.1-alpha1710273234',
+      'ver' => '2.10.1-alpha1710434438',
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
-      'ver' => '0.23.10-alpha1710273234',
+      'ver' => '0.23.10-alpha1710434438',
     ),
   ),
 );
