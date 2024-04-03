@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update package lock
 
+### Fixed
+- VideoPress: Update plugin readme
+
 ## 1.7 - 2023-11-21
 ### Changed
 - Updated WordPress tested version to 6.4.
