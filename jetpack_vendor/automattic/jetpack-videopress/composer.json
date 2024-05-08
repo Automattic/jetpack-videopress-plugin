@@ -8,7 +8,7 @@
 		"automattic/jetpack-admin-ui": "^0.4.2",
 		"automattic/jetpack-assets": "^2.1.9",
 		"automattic/jetpack-connection": "^2.7.6",
-		"automattic/jetpack-my-jetpack": "^4.23.1",
+		"automattic/jetpack-my-jetpack": "^4.23.2-alpha",
 		"automattic/jetpack-plans": "^0.4.7"
 	},
 	"require-dev": {
