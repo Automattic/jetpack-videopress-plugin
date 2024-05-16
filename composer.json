@@ -4,7 +4,7 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^2.1.10",
+		"automattic/jetpack-assets": "^2.1.11-alpha",
 		"automattic/jetpack-autoloader": "^3.0.7",
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.2",
