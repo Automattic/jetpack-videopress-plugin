@@ -8,12 +8,12 @@
 		"automattic/jetpack-autoloader": "^3.0.7",
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.2",
-		"automattic/jetpack-connection": "^2.8.4-alpha",
+		"automattic/jetpack-connection": "^2.8.4",
 		"automattic/jetpack-identity-crisis": "^0.20.0",
 		"automattic/jetpack-my-jetpack": "^4.23.3",
-		"automattic/jetpack-sync": "^2.16.5-alpha",
+		"automattic/jetpack-sync": "^2.16.5",
 		"automattic/jetpack-videopress": "^0.23.22",
-		"automattic/jetpack-status": "^3.2.0-alpha"
+		"automattic/jetpack-status": "^3.2.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
@@ -30,6 +30,7 @@
 		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
 		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
@@ -50,6 +51,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ1_8_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ1_8"
 	}
 }
