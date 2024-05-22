@@ -4,26 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 1.8-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.8 - 2024-05-22
 ### Added
-- Added a new site option not related to VideoPress...
-- Add Woocommerce event remove_order_items to Jetpack Sync
-- Packages: add version tracking for identity-crisis package.
-- Trigger red bubble notification when bad install is detected
+- Trigger a red bubble notification when a bad plugin install is detected.
 
 ### Changed
-- General: indicate compatibility with the upcoming version of WordPress, 6.5.
-- General: update WordPress version requirements to WordPress 6.4.
-- General: use wp_admin_notice function introduced in WP 6.4 to display notices.
-- Only show installation errors on plugins page
-- Updated package dependencies.
-- Update package lock
-
-### Fixed
-- VideoPress: Update plugin readme
+- Updated WordPRess tested version to 6.5.
+- Updated minimum WordPress version requirement to WordPress 6.4.
+- Switched to wp_admin_notice function to display notices.
+- Updated to show installation errors only on the plugins page.
 
 ## 1.7 - 2023-11-21
 ### Changed
