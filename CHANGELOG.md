@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Remove the 'jetpack-identity-crisis' dependency.
+
 ## 1.8 - 2024-05-22
 ### Added
 - Trigger a red bubble notification when a bad plugin install is detected.
