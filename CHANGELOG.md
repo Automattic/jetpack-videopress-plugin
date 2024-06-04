@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove the 'jetpack-identity-crisis' dependency.
+- Updated package dependencies.
 
 ## 1.8 - 2024-05-22
 ### Added
