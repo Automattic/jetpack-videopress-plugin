@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Remove the 'jetpack-identity-crisis' dependency.
 - Updated package dependencies.
 
+### Removed
+- General: update WordPress version requirements to WordPress 6.5.
+
 ## 1.8 - 2024-05-22
 ### Added
 - Trigger a red bubble notification when a bad plugin install is detected.
