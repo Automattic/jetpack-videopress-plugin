@@ -8,7 +8,7 @@
 		"automattic/jetpack-autoloader": "^3.0.9",
 		"automattic/jetpack-composer-plugin": "^2.0.2",
 		"automattic/jetpack-config": "^2.0.4",
-		"automattic/jetpack-connection": "^2.11.3",
+		"automattic/jetpack-connection": "^2.11.4-alpha",
 		"automattic/jetpack-my-jetpack": "^4.32.1-alpha",
 		"automattic/jetpack-sync": "^3.5.1",
 		"automattic/jetpack-videopress": "^0.23.31-alpha",
