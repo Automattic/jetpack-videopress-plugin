@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Lossless image optimization for images (should improve performance with no visible changes).
+
 ## 1.9 - 2024-08-15
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
