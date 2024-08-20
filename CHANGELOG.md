@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Lossless image optimization for images (should improve performance with no visible changes).
+- Revert recent SVG image optimizations.
 
 ## 1.9 - 2024-08-15
 ### Changed
