@@ -70,7 +70,7 @@ return array(
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
-      'ver' => '0.24.5-alpha1725546672',
+      'ver' => '0.24.5-alpha1725552102',
     ),
   ),
 );
