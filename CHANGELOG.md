@@ -4,17 +4,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 2.0 - 2024-09-05
 ### Changed
-- Update composer lock file
-- Updated package dependencies.
-
-### Fixed
-- Lossless image optimization for images (should improve performance with no visible changes).
-- Revert recent SVG image optimizations.
+- General: Dependency updates. [#38942] [#38822] [#39004] [#39111] [#39176]
 
 ## 1.9 - 2024-08-15
 ### Changed
