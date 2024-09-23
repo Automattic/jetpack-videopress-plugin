@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Removed
+- Connection: Removed deprecated method features_available
+
 ## 2.1 - 2024-09-06
 ### Changed
 - Internal updates.
