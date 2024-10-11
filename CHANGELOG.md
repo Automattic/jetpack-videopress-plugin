@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add tracks for connection banner
+
 ### Changed
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated package dependencies.
