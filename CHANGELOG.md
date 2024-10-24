@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - Add tracks for connection banner
 
 ### Changed
+- General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated package dependencies.
 
