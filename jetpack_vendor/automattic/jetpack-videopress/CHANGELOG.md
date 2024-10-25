@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Admin: Changed initialization load order for menu items to prevent translation error.
+- Updated package dependencies.
 
 ## [0.24.13] - 2024-10-21
 ### Changed
