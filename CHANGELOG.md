@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Connection: Removed deprecated method features_available
 - Connection: Removed features_enabled deprecated method
+- General: Update minimum WordPress version to 6.6.
 
 ### Fixed
 - My Jetpack: visual update to the GlobalNotice component look better on mobile.
