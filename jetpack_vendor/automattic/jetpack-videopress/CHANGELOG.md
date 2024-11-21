@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fixed TS errors following @wordpress/editor update
+
 ## [0.25.0] - 2024-11-18
 ### Removed
 - General: Update minimum PHP version to 7.2. [#40147]
