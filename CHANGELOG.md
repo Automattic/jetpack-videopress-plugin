@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - Only include `wp-polyfill` as a script dependency when needed.
+- Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated dependencies.
 - Updated package dependencies.
 
