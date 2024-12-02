@@ -42,11 +42,11 @@ return array(
     ),
     'jetpack-licensing' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
-      'ver' => '3.0.2-alpha1732893809',
+      'ver' => '3.0.2',
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '5.1.0-alpha1733154944',
+      'ver' => '5.1.0',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
@@ -70,7 +70,7 @@ return array(
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
-      'ver' => '0.25.3-alpha1732887271',
+      'ver' => '0.25.3',
     ),
   ),
 );
