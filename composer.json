@@ -11,7 +11,7 @@
 		"automattic/jetpack-connection": "^6.2.2-alpha",
 		"automattic/jetpack-my-jetpack": "^5.2.0",
 		"automattic/jetpack-sync": "^4.2.0",
-		"automattic/jetpack-videopress": "^0.25.5",
+		"automattic/jetpack-videopress": "^0.25.6-alpha",
 		"automattic/jetpack-status": "^5.0.1"
 	},
 	"require-dev": {
