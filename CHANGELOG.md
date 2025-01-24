@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Code: Use function-style exit() and die() with a default status code of 0.
 - Updated package dependencies.
 
+### Fixed
+- VideoPress: Fix issue with VideoPress block with 0 height and width
+
 ## 2.2 - 2025-01-10
 ### Added
 - Add tracks for connection banner [#39732]
