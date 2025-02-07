@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - Code: Use function-style exit() and die() with a default status code of 0.
 - External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
 - Updated package dependencies.
+- Update the unowned section from a product grid to a product list
 
 ### Fixed
 - VideoPress: Fix issue with VideoPress block with 0 height and width
