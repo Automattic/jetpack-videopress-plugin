@@ -15,7 +15,7 @@
 		"automattic/jetpack-status": "^5.0.4-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^5.1.0"
+		"automattic/jetpack-changelogger": "^6.0.0-alpha"
 	},
 	"autoload": {
 		"classmap": [
