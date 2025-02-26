@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
+- VideoPress: Add title to the attachment details hijacked view
 
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
