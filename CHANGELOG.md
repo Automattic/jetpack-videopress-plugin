@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
 - Updated composer.lock
 - Updated package dependencies.
+- Update package dependencies.
 - Update the unowned section from a product grid to a product list
 
 ### Fixed
