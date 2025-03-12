@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Update the unowned section from a product grid to a product list
 
 ### Fixed
+- VideoPress: Fixed other files not getting uploaded when video files are in dragged files
 - VideoPress: Fix issue with VideoPress block with 0 height and width
 
 ## 2.2 - 2025-01-10
