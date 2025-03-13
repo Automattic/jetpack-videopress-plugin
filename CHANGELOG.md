@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - VideoPress: Fixed other files not getting uploaded when video files are in dragged files
 - VideoPress: Fix issue with VideoPress block with 0 height and width
+- VideoPress Block: Fix undo not working
 
 ## 2.2 - 2025-01-10
 ### Added
