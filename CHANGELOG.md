@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
+- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
 - VideoPress: Add title to the attachment details hijacked view
 
 ### Changed
