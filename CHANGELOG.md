@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Update the unowned section from a product grid to a product list
 
 ### Fixed
+- Components: Add __next40pxDefaultSize to controls, preventing deprecation notices.
 - VideoPress: Fixed other files not getting uploaded when video files are in dragged files
 - VideoPress: Fix issue with VideoPress block with 0 height and width
 - VideoPress Block: Fix undo not working
