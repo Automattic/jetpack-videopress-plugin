@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Adds Account Protection initialization
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
+- For Media & Text block, replace video with VideoPress block
 - Improve the onboarding experience of Jetpack guiding the users through a new onboarding process.
 - My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
 - VideoPress: Add title to the attachment details hijacked view
