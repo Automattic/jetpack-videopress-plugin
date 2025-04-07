@@ -4,38 +4,34 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2.3-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 2.3 - 2025-04-07
 ### Added
-- Adds Account Protection initialization
-- Connection: Disconnecting a connection owner account will disconnect all other users first.
-- For Media & Text block, replace video with VideoPress block
-- Improve the onboarding experience of Jetpack guiding the users through a new onboarding process.
-- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
-- VideoPress: Add title to the attachment details hijacked view
+- Add Account Protection initialization. [#40925]
+- Add title to the attachment details view. [#42023]
+- Connection: Disconnect all other users before disconnecting connection owner account. [#41923]
+- Replace video embed with VideoPress block in Media & Text block. [#42522]
+- Improve the onboarding experience of Jetpack guiding the users through a new onboarding process. [#42757]
+- My Jetpack: Introduce a new onboarding screen to provide clear, step-by-step instructions for new users connecting to Jetpack. [#42523]
 
 ### Changed
-- Code: Use function-style exit() and die() with a default status code of 0.
-- Connection: Allow pre-selected login providers
-- Connection: Display connection status on Users page independent of the SSO module.
-- External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
-- General: indicate compatibility with the upcoming version of WordPress - 6.8.
-- Updated composer.lock
-- Updated package dependencies.
-- Update package dependencies.
-- Update the unowned section from a product grid to a product list
+- Code: Use function-style `exit()` and `die()` with a default status code of 0. [#41167]
+- Connection: Allow pre-selected login providers. [#42662]
+- Connection: Display connection status on Users page independent of the SSO module. [#41794]
+- External Media: Move GooglePhotosMedia, OpenverseMedia, and PexelsMedia to `@automattic/jetpack-shared-extension-utils`. [#41078]
+- General: Indicate compatibility with WordPress 6.8. [#42701]
+- Update composer.lock [#40863]
+- Update package dependencies. [#40980] [#41099] [#41286] [#41491] [#42163] [#42180] [#42384] [#42511] [#42809] [#42815]
+- Update the unowned section from a product grid to a product list. [#41312]
 
 ### Fixed
-- Components: Add __next40pxDefaultSize to controls, preventing deprecation notices.
-- VideoPress: Fixed other files not getting uploaded when video files are in dragged files
-- VideoPress: Fix issue with VideoPress block with 0 height and width
-- VideoPress Block: Fix undo not working
+- Components: Prevent deprecation notices by adding `__next40pxDefaultSize` to controls. [#42576]
+- Ensure all files are uploaded when drag-and-dropped into editor. [#42312]
+- Fix issue with VideoPress block with 0 height and width. [#41319]
+- Ensure undo function works. [#42332]
 
 ## 2.2 - 2025-01-10
 ### Added
-- Add tracks for connection banner [#39732]
+- Add tracks for connection banner. [#39732]
 - My Jetpack: Update the recommendations section in My Jetpack to include a slider interaction for the cards. [#39850]
 
 ### Changed

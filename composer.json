@@ -9,7 +9,7 @@
 		"automattic/jetpack-composer-plugin": "^4.0.4",
 		"automattic/jetpack-config": "^3.1.0",
 		"automattic/jetpack-connection": "^6.10.3",
-		"automattic/jetpack-my-jetpack": "^5.11.2-alpha",
+		"automattic/jetpack-my-jetpack": "^5.11.2",
 		"automattic/jetpack-sync": "^4.10.0",
 		"automattic/jetpack-videopress": "^0.28.0",
 		"automattic/jetpack-status": "^5.1.1"
@@ -25,6 +25,7 @@
 	"scripts": {
 		"watch": "echo 'This script is actually watching the Jetpack VideoPress package' && jetpack watch packages/videopress"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
@@ -45,6 +46,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ2_3_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ2_3"
 	}
 }
