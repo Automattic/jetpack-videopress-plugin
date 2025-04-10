@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Added more error logging.
 - Adding My Jetpack tour.
 
+### Fixed
+- Updating E2E tests.
+
 ## 2.3 - 2025-04-07
 ### Added
 - Add Account Protection initialization. [#40925]
