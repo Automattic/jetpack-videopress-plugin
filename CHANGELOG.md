@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Added more error logging.
 - Adding My Jetpack tour.
 
+### Changed
+- Update package dependencies.
+
 ### Fixed
 - Updating E2E tests.
 
