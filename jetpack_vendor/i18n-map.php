@@ -66,11 +66,11 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '4.11.0-alpha1745231263',
+      'ver' => '4.11.0',
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
-      'ver' => '0.28.2-alpha1744806288',
+      'ver' => '0.28.2',
     ),
   ),
 );
