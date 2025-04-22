@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- My Jetpack: Fix social login getting stuck when email input not empty
 - Updating E2E tests.
 
 ## 2.3 - 2025-04-07
