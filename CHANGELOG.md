@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Removed
+- General: Update minimum WordPress version to 6.7.
+
 ### Fixed
 - My Jetpack: Fix social login getting stuck when email input not empty
 - Updating E2E tests.
