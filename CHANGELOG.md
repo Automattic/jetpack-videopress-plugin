@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
+- My Jetpack: Fixed Onboarding UI responsiveness at 600px.
 - My Jetpack: Fix social login getting stuck when email input not empty
 - Updating E2E tests.
 
