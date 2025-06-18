@@ -12,7 +12,7 @@
 		"automattic/jetpack-my-jetpack": "^5.16.4",
 		"automattic/jetpack-sync": "^4.14.1",
 		"automattic/jetpack-videopress": "^0.29.7-alpha",
-		"automattic/jetpack-status": "^5.2.0"
+		"automattic/jetpack-status": "^5.2.1-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.5"
