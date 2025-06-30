@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- JITM: Fix ineffective caching due to expired plugin sync transient
+
 ## 2.4 - 2025-06-10
 ### Added
 - Add more error logging. [#42959]
