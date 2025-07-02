@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - JITM: Fix ineffective caching due to expired plugin sync transient
+- VideoPress: Fix video row action button clickability by properly hiding stats on hover
 
 ## 2.4 - 2025-06-10
 ### Added
