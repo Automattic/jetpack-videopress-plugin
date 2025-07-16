@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
 - Sync: Ignore the ActivityPub Outbox CPT
 - Update package dependencies.
