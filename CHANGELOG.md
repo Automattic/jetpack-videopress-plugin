@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- My Jetpack: Added analytics for empty product search results.
+
 ### Changed
 - Improves performance of wpcom comments liking by caching and minimizing API requests.
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
