@@ -9,7 +9,7 @@
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
 		"automattic/jetpack-connection": "^6.16.0",
-		"automattic/jetpack-my-jetpack": "^5.20.1-alpha",
+		"automattic/jetpack-my-jetpack": "^5.20.1",
 		"automattic/jetpack-sync": "^4.15.2",
 		"automattic/jetpack-videopress": "^0.30.6-alpha",
 		"automattic/jetpack-status": "^6.0.0"
