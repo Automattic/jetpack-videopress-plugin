@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - JITM: Fix ineffective caching due to expired plugin sync transient
 - My Jetpack: Fixing footer alignment for diconnected accounts.
+- My Jetpack: Restoring plan purchase link.
 - Update JITMs to remove jQuery dependency
 - VideoPress: Fix video row action button clickability by properly hiding stats on hover
 
