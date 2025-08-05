@@ -4,28 +4,25 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2.5-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 2.5 - 2025-08-05
 ### Added
-- My Jetpack: Added analytics for empty product search results.
+- My Jetpack: Added analytics for empty product search results. [#44344]
 
 ### Changed
-- Improves performance of wpcom comments liking by caching and minimizing API requests.
-- My Jetpack: Enabled access to My Jetpack on WP Multisite.
-- My Jetpack: Unify the user connection flow with a unified screen.
-- My Jetpack: Updating Stats card to include a chart for better analytics.
-- Sync: Ignore the ActivityPub Outbox CPT
-- Update package dependencies.
+- Improve performance of WordPress.com comment likes by caching and minimizing API requests. [#44205]
+- My Jetpack: Enable access to My Jetpack on WP Multisite. [#44260]
+- My Jetpack: Unify the user connection flow with a unified screen. [#44469]
+- My Jetpack: Update Stats card to include a chart for better analytics. [#43870]
+- Sync: Ignore the ActivityPub Outbox CPT [#44222]
+- Update package dependencies. [#44020] [#44148] [#44151] [#44206] [#44356]
 
 ### Fixed
-- JITM: Fix ineffective caching due to expired plugin sync transient
-- My Jetpack: Fixing footer alignment for diconnected accounts.
-- My Jetpack: Prevent expiration alerts for products covered by active bundles
-- My Jetpack: Restoring plan purchase link.
-- Update JITMs to remove jQuery dependency
-- VideoPress: Fix video row action button clickability by properly hiding stats on hover
+- JITM: Fix ineffective caching due to expired plugin sync transient. [#44117]
+- My Jetpack: Fix footer alignment for disconnected accounts. [#44468]
+- My Jetpack: Prevent expiration alerts for products covered by active bundles. [#44586]
+- My Jetpack: Restore plan purchase link. [#44535]
+- Update JITMs to remove jQuery dependency. [#43783]
+- Fix video row action button clickability by properly hiding stats on hover. [#44167]
 
 ## 2.4 - 2025-06-10
 ### Added
