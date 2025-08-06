@@ -9,7 +9,7 @@
 		"automattic/jetpack-assets": "^4.3.2",
 		"automattic/jetpack-connection": "^6.17.0",
 		"automattic/jetpack-my-jetpack": "^5.22.0",
-		"automattic/jetpack-plans": "^0.9.1",
+		"automattic/jetpack-plans": "^0.10.0-alpha",
 		"automattic/jetpack-status": "^6.0.2"
 	},
 	"require-dev": {
