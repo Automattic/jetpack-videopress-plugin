@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- My Jetpack: Fixed multisite availability check for restricted products and modules
 - Update package dependencies.
 
 ## 2.5 - 2025-08-05
