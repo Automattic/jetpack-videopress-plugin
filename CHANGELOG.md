@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added typecheck support for E2E tests.
+
 ### Changed
 - My Jetpack: Fixed multisite availability check for restricted products and modules
 - Update package dependencies.
