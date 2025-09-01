@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - Added typecheck support for E2E tests.
 
 ### Changed
+- Do not force CRM installation for Complete plan users
 - My Jetpack: Fixed multisite availability check for restricted products and modules
 - Update package dependencies.
 
