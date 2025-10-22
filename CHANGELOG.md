@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Tested up to WordPress 6.9
+
 ### Changed
 - Update dependencies.
 - Update package dependencies.
