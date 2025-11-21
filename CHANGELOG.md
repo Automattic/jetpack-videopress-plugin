@@ -4,21 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2.7-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 2.7 - 2025-11-21
 ### Added
-- Tested up to WordPress 6.9
+- Tested up to WordPress 6.9. [#45571]
 
 ### Changed
-- Update dependencies.
-- Update package dependencies.
+- Update dependencies. [#45488]
+- Update package dependencies. [#45478] [#45652] [#45676] [#45756] [#45915]
 
 ### Fixed
-- Jetpack: remove getIconColor functions for block icons
-- My Jetpack: Fix expiring renewal prompt to show all products
-- My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
+- Jetpack: Remove getIconColor functions for block icons. [#45992]
+- My Jetpack: Fix expiring renewal prompt to show all products. [#45995]
+- My Jetpack: Fix visual compatibility issue with Hello Dolly plugin. [#45474]
 
 ## 2.6 - 2025-10-10
 ### Added
