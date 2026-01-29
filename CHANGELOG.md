@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Update composer.lock.
 - Update package dependencies.
 
+### Removed
+- General: Update minimum WordPress version to 6.8.
+
 ## 2.7 - 2025-11-21
 ### Added
 - Tested up to WordPress 6.9. [#45571]
