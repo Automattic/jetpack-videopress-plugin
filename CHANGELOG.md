@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Update package dependencies.
 
 ## 2.8 - 2026-02-04
