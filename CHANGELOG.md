@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Update package dependencies.
 
+### Fixed
+- Admin Page: Restore border on header component.
+
 ## 2.8 - 2026-02-04
 ### Added
 - Adding Jetpack Protect details page for users without the dedicated Jetpack Protect plugin. [#46630]
