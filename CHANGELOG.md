@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Switch to Native TypeScript compiler based on Go.
 - Update dependencies.
+- Update design of the sidebar upsell.
 - Update package dependencies.
 
 ### Fixed
