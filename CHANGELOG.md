@@ -4,21 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2.9-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 2.9 - 2026-04-10
 ### Changed
-- Comment: Add Tracking to Jetpack upsell link.
-- Dependencies: Update lock file to keep root requirements in sync.
-- Remove header border-bottom from the admin page for a cleaner unified header appearance.
-- Switch to Native TypeScript compiler based on Go.
-- Update dependencies.
-- Update design of the sidebar upsell.
-- Update package dependencies.
+- Dependencies: Update lock file to keep root requirements in sync. [#47418]
+- Remove header border-bottom from the admin page for a cleaner unified header appearance. [#47313]
+- Switch to Native TypeScript compiler based on Go. [#47375]
+- Update dependencies. [#47472]
+- Update design of the sidebar upsell. [#47909]
+- Update package dependencies. [#47002] [#47021] [#47099] [#47173] [#47285] [#47300] [#47371] [#47496] [#47505] [#47684] [#47825] [#47890] [#47998]
 
 ### Fixed
-- Admin Page: Restore border on header component.
+- Admin Page: Restore border on header component. [#47425]
 
 ## 2.8 - 2026-02-04
 ### Added
