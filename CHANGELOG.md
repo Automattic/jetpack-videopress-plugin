@@ -4,13 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 3.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 3.0 - 2026-04-16
 ### Changed
-- Tested up to WordPress 7.0.
-- Update package dependencies.
+- Tested up to WordPress 7.0. [#48114]
+- Update package dependencies. [#48064]
 
 ## 2.9 - 2026-04-10
 ### Changed
