@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- VideoPress admin: add padding around the Settings section, make the hero full width on medium screens, and remove an empty pagination placeholder below the video library.
+
 ## 3.0 - 2026-04-16
 ### Changed
 - Tested up to WordPress 7.0. [#48114]
