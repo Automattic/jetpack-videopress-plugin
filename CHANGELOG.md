@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Fix the Add new video button disappearing on the admin dashboard after the first video is uploaded.
 - VideoPress admin: add padding around the Settings section, make the hero full width on medium screens, and remove an empty pagination placeholder below the video library.
 
 ## 3.0 - 2026-04-16
