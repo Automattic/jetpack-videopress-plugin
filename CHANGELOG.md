@@ -4,17 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 3.1-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 3.1 - 2026-05-14
 ### Changed
-- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
-- Update package dependencies.
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency. [#48225]
+- Update package dependencies. [#48106]
 
 ### Fixed
-- Fix the Add new video button disappearing on the admin dashboard after the first video is uploaded.
-- VideoPress admin: add padding around the Settings section, make the hero full width on medium screens, and remove an empty pagination placeholder below the video library.
+- Prevent the "Add new video" button from disappearing on the admin dashboard after the first video is uploaded. [#48690]
+- VideoPress admin: Add padding around the Settings section, make the hero full width on medium screens, and remove an empty pagination placeholder below the video library. [#48131]
 
 ## 3.0 - 2026-04-16
 ### Changed
