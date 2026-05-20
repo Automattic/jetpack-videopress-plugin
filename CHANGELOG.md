@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: update composer.lock files.
+- Update package dependencies.
 
 ## 3.1 - 2026-05-14
 ### Changed
