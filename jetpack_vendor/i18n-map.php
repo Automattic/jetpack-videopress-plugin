@@ -66,7 +66,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '4.39.0-alpha1779779271',
+      'ver' => '4.39.0-alpha1779942968',
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
@@ -74,7 +74,7 @@ return array(
     ),
     'jetpack-wp-build-polyfills' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-wp-build-polyfills',
-      'ver' => '0.1.11-alpha1779745145',
+      'ver' => '0.1.11-alpha1779942968',
     ),
   ),
 );
