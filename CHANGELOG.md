@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Fix admin page crash on video upload/delete when the free-plan upgrade nudge is shown
 - Fix the post-connection redirect so the modernized dashboard returns users to the VideoPress page instead of a 404
 
 ## 3.1 - 2026-05-14
