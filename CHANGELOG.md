@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update composer.lock files.
 - General: Update minimum WordPress version to 6.9.
 - Remove unneeded development and documentation files from the published plugin.
+- Update composer.lock files.
 - Updated package dependencies.
 - Update package dependencies.
 
