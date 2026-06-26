@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix admin page crash on video upload/delete when the free-plan upgrade nudge is shown
+- Fix fatal error on My Jetpack when the current stable Jetpack plugin is active.
 - Fix the post-connection redirect so the modernized dashboard returns users to the VideoPress page instead of a 404
 
 ## 3.1 - 2026-05-14
