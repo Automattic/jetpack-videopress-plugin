@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Dashboard: Release modernized VideoPress dashboard
 - General: update composer.lock files.
 - General: Update minimum WordPress version to 6.9.
 - Remove unneeded development and documentation files from the published plugin.
