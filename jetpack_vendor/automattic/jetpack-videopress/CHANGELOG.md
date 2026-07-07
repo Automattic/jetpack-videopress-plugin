@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.40.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- VideoPress: Resumable video uploads are now verified as they arrive, instead of re-reading the whole file once the upload completes.
+
+### Changed
+- Update package dependencies.
+- Update WPDS design tokens to the @wordpress/theme 0.16/0.17 names (see https://github.com/WordPress/gutenberg/blob/trunk/packages/theme/CHANGELOG.md#0160-2026-06-24 ).
+
+### Fixed
+- Guard the block banner icon render with isValidElement so a non-element icon prop no longer trips the @wordpress/icons type check.
+
 ## [0.39.0] - 2026-07-06
 ### Added
 - Add presentation to the player iframe allow list to enable casting from embeds. [#50215]
@@ -2054,6 +2068,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Created empty package [#24952]
 
+[0.40.0-alpha]: https://github.com/Automattic/jetpack-videopress/compare/v0.39.0...v0.40.0-alpha
 [0.39.0]: https://github.com/Automattic/jetpack-videopress/compare/v0.38.2...v0.39.0
 [0.38.2]: https://github.com/Automattic/jetpack-videopress/compare/v0.38.1...v0.38.2
 [0.38.1]: https://github.com/Automattic/jetpack-videopress/compare/v0.38.0...v0.38.1
