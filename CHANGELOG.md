@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
+
 ## 3.3 - 2026-08-13
 ### Added
 - Add the Activity Log page to wp-admin, so it is available without the Jetpack plugin installed. [#51224]
