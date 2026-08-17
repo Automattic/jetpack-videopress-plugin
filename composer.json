@@ -13,7 +13,7 @@
 		"automattic/jetpack-my-jetpack": "^5.43.0",
 		"automattic/jetpack-sync": "^4.45.3",
 		"automattic/jetpack-videopress": "^0.46.1-alpha",
-		"automattic/jetpack-status": "^6.3.2-alpha"
+		"automattic/jetpack-status": "^6.4.0-alpha"
 	},
 	"autoload": {
 		"classmap": [
