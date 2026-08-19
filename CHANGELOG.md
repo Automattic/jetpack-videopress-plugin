@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update package dependencies.
+
 ### Fixed
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 
