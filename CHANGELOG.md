@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Update wording for some connection error notices.
+- My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
 ## 3.4 - 2026-08-19
 ### Changed
