@@ -8,6 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- General: Update minimum WordPress version to 7.0.
+- Tested up to WordPress 7.1.
+
 ### Fixed
 - Connection: Update wording for some connection error notices.
 
