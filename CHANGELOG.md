@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 3.5-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Connection: Update wording for some connection error notices.
+
 ## 3.4 - 2026-08-19
 ### Changed
 - Update package dependencies. [#51399]
