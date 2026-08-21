@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
+- Redesign the video details page: group details into one card in a wider layout, move the player and settings into a side column, and add thumbnail tiles, collapsible sections, and an Add to content action.
 - Tested up to WordPress 7.1.
 
 ### Fixed
