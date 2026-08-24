@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Connection: Update wording for some connection error notices.
 - Fix a timeout error when updating a video poster from the media library.
+- My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
 ## 3.4 - 2026-08-19
