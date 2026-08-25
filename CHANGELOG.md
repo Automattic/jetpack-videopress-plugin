@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Redesign the video details page: group details into one card in a wider layout, move the player and settings into a side column, and add thumbnail tiles, collapsible sections, and an Add to content action.
 - Tested up to WordPress 7.1.
 
+### Removed
+- Updated PHP version requirements to PHP 7.4 or newer.
+
 ### Fixed
 - Charts: draw labels at the design system's font weight and size.
 - Connection: Update wording for some connection error notices.
