@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 7.1.
 
 ### Fixed
+- Charts: draw labels at the design system's font weight and size.
 - Connection: Update wording for some connection error notices.
 - Fix a timeout error when updating a video poster from the media library.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
