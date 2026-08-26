@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 3.5-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
+
+### Fixed
+- My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
+- My Jetpack: Stop repeating the partner lookup request on every page load.
+
 ## 3.4.1 - 2026-08-26
 ### Added
 - Add a first-run welcome modal to the dashboard. [#51520]
