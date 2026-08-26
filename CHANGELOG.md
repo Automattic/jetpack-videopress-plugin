@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: draw labels at the design system's font weight and size.
 - Connection: Update wording for some connection error notices.
 - Fix a timeout error when updating a video poster from the media library.
+- Fix private video playback authorization for videos embedded through synced patterns and Video Playlist blocks, let private videos preview in the block editor canvas, load live metadata for private playlist entries for authorized viewers, and show a lock placeholder on playlist thumbnails of private videos the viewer cannot access.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
