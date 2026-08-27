@@ -271,6 +271,7 @@ return array(
     'Automattic\\Jetpack\\VideoPress\\WPCOM_REST_API_V2_Endpoint_VideoPress' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-wpcom-rest-api-v2-endpoint-videopress.php',
     'Automattic\\Jetpack\\VideoPress\\WPCOM_REST_API_V2_Endpoint_VideoPress_Caption_Tracks' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-wpcom-rest-api-v2-endpoint-videopress-caption-tracks.php',
     'Automattic\\Jetpack\\VideoPress\\XMLRPC' => $baseDir . '/jetpack_vendor/automattic/jetpack-videopress/src/class-xmlrpc.php',
+    'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Admin_Frame' => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-admin-frame.php',
     'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Polyfills' => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-polyfills.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Jetpack_IXR_Client' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php',

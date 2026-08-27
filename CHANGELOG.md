@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Fixed
+- Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 

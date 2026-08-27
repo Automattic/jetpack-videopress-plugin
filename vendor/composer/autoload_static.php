@@ -291,6 +291,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ3_5_alpha
         'Automattic\\Jetpack\\VideoPress\\WPCOM_REST_API_V2_Endpoint_VideoPress' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-wpcom-rest-api-v2-endpoint-videopress.php',
         'Automattic\\Jetpack\\VideoPress\\WPCOM_REST_API_V2_Endpoint_VideoPress_Caption_Tracks' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-wpcom-rest-api-v2-endpoint-videopress-caption-tracks.php',
         'Automattic\\Jetpack\\VideoPress\\XMLRPC' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-xmlrpc.php',
+        'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Admin_Frame' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-admin-frame.php',
         'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Polyfills' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-polyfills.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Jetpack_IXR_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php',
