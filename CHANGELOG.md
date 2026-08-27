@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
+### Changed
+- Charts: follow the WordPress admin color scheme for chart series colors.
+
 ### Fixed
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
