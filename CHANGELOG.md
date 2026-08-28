@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Invite the first upload with a dropzone when the video library is empty.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed
