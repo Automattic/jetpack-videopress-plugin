@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
+- JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - Say when a video upload failed because of a Jetpack connection problem, instead of only "Upload failed".
