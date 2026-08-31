@@ -21,6 +21,9 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
+- Say when a video upload failed because of a Jetpack connection problem, instead of only "Upload failed".
+- Say when a video upload from the Video block failed because of a Jetpack connection problem, instead of only "Failed to upload your video".
+- Show the Jetpack connection error notice on the VideoPress dashboard again.
 
 ## 3.4.1 - 2026-08-26
 ### Added
