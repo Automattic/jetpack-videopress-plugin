@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
+- Update package dependencies.
 
 ### Fixed
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
