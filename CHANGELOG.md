@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
+- Dashboard: Open the file picker directly from the welcome modal's Upload a video button, then land on the Library to follow the upload's progress.
 - Update package dependencies.
 
 ### Fixed
@@ -23,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
+- Dashboard: Make the welcome=1 review parameter reopen the welcome modal after it has been dismissed.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
