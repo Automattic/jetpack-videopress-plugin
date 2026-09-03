@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
+- Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
