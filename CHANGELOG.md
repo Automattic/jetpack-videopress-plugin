@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
+- My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - Playlist block: Wrap long unbroken video titles and decode HTML entities in titles on the front end.
 - Say when a video upload failed because of a Jetpack connection problem, instead of only "Upload failed".
