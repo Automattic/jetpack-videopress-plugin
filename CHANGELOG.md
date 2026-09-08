@@ -37,6 +37,7 @@ This is an alpha version! The changes listed here are not final.
 - Say when a video upload failed because of a Jetpack connection problem, instead of only "Upload failed".
 - Say when a video upload from the Video block failed because of a Jetpack connection problem, instead of only "Failed to upload your video".
 - Show the Jetpack connection error notice on the VideoPress dashboard again.
+- Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 
 ## 3.4.1 - 2026-08-26
 ### Added
