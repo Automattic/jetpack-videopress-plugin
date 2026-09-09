@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Avoid free-plan limits and upgrade prompts when site features cannot be loaded.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
+- Charts: Stop the first and last dates on a chart's horizontal axis from being cut off.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Dashboard: Make the welcome=1 review parameter reopen the welcome modal after it has been dismissed.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
