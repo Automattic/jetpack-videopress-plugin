@@ -265,6 +265,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ3_5_alpha
         'Automattic\\Jetpack\\VideoPress\\Divi5\\VideoPress_Module' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/videopress-divi-5/class-videopress-module.php',
         'Automattic\\Jetpack\\VideoPress\\Initial_State' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initial-state.php',
         'Automattic\\Jetpack\\VideoPress\\Initializer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-initializer.php',
+        'Automattic\\Jetpack\\VideoPress\\Inline_Player' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-inline-player.php',
         'Automattic\\Jetpack\\VideoPress\\Jwt_Token_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-jwt-token-bridge.php',
         'Automattic\\Jetpack\\VideoPress\\Module_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-module-control.php',
         'Automattic\\Jetpack\\VideoPress\\Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-options.php',
