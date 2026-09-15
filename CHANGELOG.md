@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
+- Dashboard: Display video library thumbnails in a 16:9 aspect ratio.
 - Dashboard: Open the file picker directly from the welcome modal's Upload a video button, then land on the Library to follow the upload's progress.
 - Hide the VideoPress sidebar item when VideoPress is not active.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
