@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add a "Learn more" support link to the admin page.
 - Add a site-wide setting to turn off player preloading for every embed.
+- Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - Invite the first upload with a dropzone when the video library is empty.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
