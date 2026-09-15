@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
 - Dashboard: Open the file picker directly from the welcome modal's Upload a video button, then land on the Library to follow the upload's progress.
 - Hide the VideoPress sidebar item when VideoPress is not active.
+- My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Update package dependencies.
 
