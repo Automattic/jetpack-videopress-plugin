@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: Fix the page overlapping the admin menu in right-to-left languages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Avoid free-plan limits and upgrade prompts when site features cannot be loaded.
+- Charts: Fix unreadable axis labels in forced-colors mode.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
 - Charts: Restore keyboard focus after dismissing line chart tooltips.
