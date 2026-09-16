@@ -44,6 +44,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Make the welcome=1 review parameter reopen the welcome modal after it has been dismissed.
 - Fix selecting thumbnail frames from private videos and prefer browser-compatible video renditions.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
+- Fix the VideoPress block failing to load in the editor on WordPress.com-hosted sites.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
