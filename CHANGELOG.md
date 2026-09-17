@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Invite the first upload with a dropzone when the video library is empty.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 - With the inline player setting on, show each video's poster and load the player only when it is played.
+- With the shared player setting on, the block editor previews video blocks with the same shared player instead of one frame per block.
 
 ### Changed
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
