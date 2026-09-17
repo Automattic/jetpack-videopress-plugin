@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Update package dependencies.
+- VideoPress: refine the welcome modal type scale, match the upload dropzone text to the design system's empty state, and drop the duplicate header Upload button while the empty-library dropzone is showing.
 
 ### Fixed
 - Activity Log: Fix the page overlapping the admin menu in right-to-left languages.
