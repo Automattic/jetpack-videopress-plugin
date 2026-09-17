@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Activity Log: Fix the page overlapping the admin menu in right-to-left languages.
+- Activity Log: honor the module setting, so the page can be turned off.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Avoid free-plan limits and upgrade prompts when site features cannot be loaded.
 - Charts: Fix unreadable axis labels in forced-colors mode.
