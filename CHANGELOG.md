@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Open the file picker directly from the welcome modal's Upload a video button, then land on the Library to follow the upload's progress.
 - Hide the VideoPress sidebar item when VideoPress is not active.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
+- My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Update package dependencies.
 
