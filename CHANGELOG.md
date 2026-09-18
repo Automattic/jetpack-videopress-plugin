@@ -38,6 +38,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: honor the module setting, so the page can be turned off.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Avoid free-plan limits and upgrade prompts when site features cannot be loaded.
+- Chapters: Show specific validation messages for chapters entered in video descriptions.
 - Charts: Fix unreadable axis labels in forced-colors mode.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
