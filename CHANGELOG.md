@@ -46,6 +46,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
 - Connection: Hide connection error notices from users who cannot fix the connection.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
+- Dashboard: Keep the video editor footer at the bottom of the page.
 - Dashboard: Make the welcome=1 review parameter reopen the welcome modal after it has been dismissed.
 - Fix selecting thumbnail frames from private videos and prefer browser-compatible video renditions.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
