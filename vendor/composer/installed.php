@@ -182,9 +182,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-my-jetpack' => array(
-            'pretty_version' => '6.4.1-alpha.1789762838',
-            'version' => '6.4.1.0-alpha1789762838',
-            'reference' => '755ef3dc00b045f04de803168332c1ba5c4e4b5f',
+            'pretty_version' => '6.5.0-alpha.1790012444',
+            'version' => '6.5.0.0-alpha1790012444',
+            'reference' => '82412a9fa9c08f6e6e864fd82939a2b22c74d95b',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
@@ -274,7 +274,7 @@
         'automattic/jetpack-videopress' => array(
             'pretty_version' => '0.51.1-alpha.1789759296',
             'version' => '0.51.1.0-alpha1789759296',
-            'reference' => '7ac73c91545bcabde90139a68f076fb762641ec9',
+            'reference' => '2cec2f455f848f205582cb1851a9a0564f35e073',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-videopress',
             'aliases' => array(),

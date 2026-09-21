@@ -8,8 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
+
 ### Fixed
 - Chapters: Show specific validation messages for chapters entered in video descriptions.
+- My Jetpack: Show each notice once instead of twice.
 
 ## 3.5 - 2026-09-18
 ### Added
