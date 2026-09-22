@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Chapters: Show specific validation messages for chapters entered in video descriptions.
+- Footer: Hide Products and Help links when My Jetpack is unavailable.
 - My Jetpack: Show each notice once instead of twice.
 
 ## 3.5 - 2026-09-18
