@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add a Latest Videos Playlist block that plays the site's newest VideoPress videos, with the number of videos set in the block settings.
+
 ### Changed
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - With the inline player setting on, draw the play button like the player's and show a loading spinner from the click until the player has loaded.
