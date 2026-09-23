@@ -4,27 +4,24 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 3.6-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 3.6 - 2026-09-23
 ### Added
-- Add a Latest Videos Playlist block that plays the site's newest VideoPress videos, with the number of videos set in the block settings.
+- Add a Latest Videos Playlist block that plays the site's newest VideoPress videos, with the number of videos set in the block settings. [#52665]
 
 ### Changed
-- My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
-- With the inline player setting on, draw the play button like the player's and show a loading spinner from the click until the player has loaded.
+- My Jetpack: Answer module switch clicks immediately, and explain what happened when a change fails. [#52494]
+- With the inline player setting on, draw the play button like the player's and show a loading spinner from the click until the player has loaded. [#52574]
 
 ### Fixed
-- Chapters: Show specific validation messages for chapters entered in video descriptions.
-- Connection: Report a broken connection on My Jetpack's connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning, not an error, to everyone else.
-- Fix private video playback on sites using WPML.
-- Footer: Hide Products and Help links when My Jetpack is unavailable.
-- My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
-- My Jetpack: Show each notice once instead of twice.
-- Pricing: Open information tooltips with the keyboard and dismiss them with Escape.
-- Show each number on the views trends chart's value axis once when counts are small.
-- With the inline player setting on, show the poster of private videos, and of videos the server could not look up, before they are played instead of a black box.
+- Chapters: Show specific validation messages for chapters entered in video descriptions. [#52488]
+- Connection: Report a broken connection on My Jetpack's connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning, not an error, to everyone else. [#52130]
+- Fix private video playback on sites using WPML. [#52659]
+- Footer: Hide Products and Help links when My Jetpack is unavailable. [#52557]
+- My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete. [#52614]
+- My Jetpack: Show each notice once instead of twice. [#52494]
+- Pricing: Open information tooltips with the keyboard and dismiss them with Escape. [#52661]
+- Show each number on the views trends chart's value axis once when counts are small. [#52588]
+- With the inline player setting on, show the poster of private videos, and of videos the server could not look up, before they are played instead of a black box. [#52574]
 
 ## 3.5 - 2026-09-18
 ### Added
