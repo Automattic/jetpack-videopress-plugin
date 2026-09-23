@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
+- With the inline player setting on, draw the play button like the player's and show a loading spinner from the click until the player has loaded.
 
 ### Fixed
 - Chapters: Show specific validation messages for chapters entered in video descriptions.
@@ -20,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show each notice once instead of twice.
 - Pricing: Open information tooltips with the keyboard and dismiss them with Escape.
 - Show each number on the views trends chart's value axis once when counts are small.
+- With the inline player setting on, show the poster of private videos, and of videos the server could not look up, before they are played instead of a black box.
 
 ## 3.5 - 2026-09-18
 ### Added
