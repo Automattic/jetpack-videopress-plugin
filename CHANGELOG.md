@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
+- Pricing: Open information tooltips with the keyboard and dismiss them with Escape.
 - Show each number on the views trends chart's value axis once when counts are small.
 
 ## 3.5 - 2026-09-18
