@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Chapters: Show specific validation messages for chapters entered in video descriptions.
+- Fix private video playback on sites using WPML.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
