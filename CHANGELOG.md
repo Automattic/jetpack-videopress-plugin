@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Chapters: Show specific validation messages for chapters entered in video descriptions.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - My Jetpack: Show each notice once instead of twice.
+- Show each number on the views trends chart's value axis once when counts are small.
 
 ## 3.5 - 2026-09-18
 ### Added
