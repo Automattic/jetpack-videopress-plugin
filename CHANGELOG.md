@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - My Jetpack: stretch the tab content background to the full height of the page.
+- Show Jetpack in-dashboard messages on the dashboard again.
 
 ## 3.6 - 2026-09-23
 ### Added
