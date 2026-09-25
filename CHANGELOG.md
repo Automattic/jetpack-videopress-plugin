@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add an All Playlists block that lists every Video Playlist published on the site as a grid or a list.
+- Add an optional trim and cut editor with preview, undo, original video restoration, and a choice to update or save a new video. Keep the editor available during processing and resume pending copies when returning to the page. Reduce background status checks, refresh delayed timeline thumbnails, and allow retrying failed edits without creating another video.
 - Add title and description settings to the Video Playlist block, recorded in a site-wide playlist index.
 
 ### Changed
