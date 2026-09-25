@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add an All Playlists block that lists every Video Playlist published on the site as a grid or a list.
 - Add title and description settings to the Video Playlist block, recorded in a site-wide playlist index.
 
 ### Changed
