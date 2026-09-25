@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
+- Dashboard: Fix a just-uploaded video briefly showing up a second time as a local video in the Library.
 - Library: Show a loading state until the video library is loaded.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: stretch the tab content background to the full height of the page.
