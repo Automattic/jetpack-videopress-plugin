@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Pricing: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
 
 ### Fixed
+- Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Show Jetpack in-dashboard messages on the dashboard again.
 
