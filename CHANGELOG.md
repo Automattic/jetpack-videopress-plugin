@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add an optional trim and cut editor with preview, undo, and original video restoration. Keep the editor available during processing, reduce background status checks, refresh delayed timeline thumbnails, and allow retrying failed edits.
 - Add title and description settings to the Video Playlist block, recorded in a site-wide playlist index.
 - Video Playlist and Latest Videos Playlist blocks: Add a setting to hide the player. Clicking a video then opens it on VideoPress in a new tab, or reveals the player and plays it.
+- Video Playlist block: Show the playlist title as an editable heading above the playlist, with a setting to turn it off.
 
 ### Changed
 - My Jetpack: Show a Features tab in place of the Products tab.
