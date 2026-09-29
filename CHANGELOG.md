@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Use core snackbar notice placement.
 
 ### Fixed
+- Admin: Keep the Learn more support link up to date through the redirect service.
 - Ask before deleting videos, and warn before leaving the page while an upload is running.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
