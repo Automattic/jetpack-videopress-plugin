@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Ask before deleting videos, and warn before leaving the page while an upload is running.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
+- Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Dashboard: Fix a just-uploaded video briefly showing up a second time as a local video in the Library.
 - Dashboard: Keep the views trend chart's comparison lines distinguishable, including for color-blind viewers.
 - Library: Show a loading state until the video library is loaded.
