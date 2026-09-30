@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Show Jetpack in-dashboard messages on the dashboard again.
+- Upgrade: Send WordPress.com sites to the Business plan instead of an incompatible VideoPress product.
 
 ## 3.6 - 2026-09-23
 ### Added
