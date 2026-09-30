@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - My Jetpack: Show a Features tab in place of the Products tab.
 - Pricing: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
+- Update package dependencies.
 - Use core snackbar notice placement.
 
 ### Fixed
