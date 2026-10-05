@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show product cards flat, without a drop shadow.
 - Overview: Show the views chart tooltip on the WordPress design system tooltip surface.
 - Pricing: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
+- Show the ad-free, customizable player as included in the free plan on the VideoPress plan comparison.
 - Update package dependencies.
 - Use core snackbar notice placement.
 
