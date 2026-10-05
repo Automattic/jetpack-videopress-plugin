@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: Show the connection error notice only when a connection error has been recorded.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.
+- Overview: Show the views chart tooltip on the WordPress design system tooltip surface.
 - Pricing: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
 - Update package dependencies.
 - Use core snackbar notice placement.
