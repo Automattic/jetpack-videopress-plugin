@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Admin: Keep the Learn more support link up to date through the redirect service.
 - Ask before deleting videos, and warn before leaving the page while an upload is running.
+- Caption manager: Warn when a private video's preview may not play.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
