@@ -45,6 +45,7 @@ This is an alpha version! The changes listed here are not final.
 - Library: Show a loading state until the video library is loaded.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: stretch the tab content background to the full height of the page.
+- Scroll the timeline while dragging cuts beyond the visible area.
 - Show an error and stop the Get VideoPress button from staying busy when checkout cannot start.
 - Show Jetpack in-dashboard messages on the dashboard again.
 - Start new cuts at the playhead, or end there when it is at the end of the video, and keep a gap from existing cuts.
