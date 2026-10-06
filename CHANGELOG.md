@@ -29,6 +29,9 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 - Use core snackbar notice placement.
 
+### Removed
+- Remove the legacy dashboard. Sites that turned off the modern dashboard no longer get a Jetpack > VideoPress menu.
+
 ### Fixed
 - Admin: Keep the Learn more support link up to date through the redirect service.
 - Ask before deleting videos, and warn before leaving the page while an upload is running.
