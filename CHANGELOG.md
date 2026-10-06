@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Add title and description settings to the Video Playlist block, recorded in a site-wide playlist index.
 - Give every video its own page for themes that support it, and add a "Show the video being viewed" option to the video block.
 - Library: Edit video details while uploads are in progress.
+- Onboarding: Add an introductory video to the first-run welcome modal.
 - Video Playlist and Latest Videos Playlist blocks: Add a setting to hide the player. Clicking a video then opens it on VideoPress in a new tab, or reveals the player and plays it.
 - Video Playlist block: Show the playlist title as an editable heading above the playlist, with a setting to turn it off.
 
