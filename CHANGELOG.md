@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Dashboard: Fix a just-uploaded video briefly showing up a second time as a local video in the Library.
 - Dashboard: Keep the views trend chart's comparison lines distinguishable, including for color-blind viewers.
+- Keep the editing preview on retained footage when playback reaches a trim or trailing cut.
 - Library: Show a loading state until the video library is loaded.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: stretch the tab content background to the full height of the page.
