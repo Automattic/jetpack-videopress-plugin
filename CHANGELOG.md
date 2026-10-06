@@ -45,6 +45,7 @@ This is an alpha version! The changes listed here are not final.
 - Library: Show a loading state until the video library is loaded.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: stretch the tab content background to the full height of the page.
+- Show an error and stop the Get VideoPress button from staying busy when checkout cannot start.
 - Show Jetpack in-dashboard messages on the dashboard again.
 - Upgrade: Send WordPress.com sites to the Business plan instead of an incompatible VideoPress product.
 - Video block: Offer an upgrade action when uploads require a paid plan.
