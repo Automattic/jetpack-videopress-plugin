@@ -47,6 +47,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Show an error and stop the Get VideoPress button from staying busy when checkout cannot start.
 - Show Jetpack in-dashboard messages on the dashboard again.
+- Start new cuts at the playhead, or end there when it is at the end of the video, and keep a gap from existing cuts.
 - Upgrade: Send WordPress.com sites to the Business plan instead of an incompatible VideoPress product.
 - Video block: Offer an upgrade action when uploads require a paid plan.
 
