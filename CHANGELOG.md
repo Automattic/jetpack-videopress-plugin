@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add trim and cut editing to the video block toolbar and clarify the editor tool icons.
 
+### Fixed
+- Views trends chart: Announce the chart correctly to screen readers.
+
 ## 3.7 - 2026-10-07
 ### Security
 - Playback: Strengthen authorization for private videos. [#53240]
