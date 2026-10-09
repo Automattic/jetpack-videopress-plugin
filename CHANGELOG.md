@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add trim and cut editing to the video block toolbar and clarify the editor tool icons.
+- Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 
 ### Fixed
 - Views trends chart: Announce the chart correctly to screen readers.
