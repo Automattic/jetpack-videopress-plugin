@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 
 ### Fixed
+- My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
 - Views trends chart: Announce the chart correctly to screen readers.
 
 ## 3.7 - 2026-10-07
