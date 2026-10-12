@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
+- Only open a channel video page for a video uploaded to this site.
 - Views trends chart: Announce the chart correctly to screen readers.
 
 ## 3.7 - 2026-10-07
