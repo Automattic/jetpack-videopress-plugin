@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
 
+### Changed
+- Open this site's video pages from a Video Playlist in the same tab, and mark the video being viewed.
+
 ### Fixed
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
