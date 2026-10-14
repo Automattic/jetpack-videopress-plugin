@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
 
 ### Changed
+- My Jetpack: Show a connection error on the Overview connection card while your account is still to be connected, instead of only asking you to connect it.
 - Open this site's video pages from a Video Playlist in the same tab, and mark the video being viewed.
 
 ### Fixed
