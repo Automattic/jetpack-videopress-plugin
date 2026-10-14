@@ -264,6 +264,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_videopressⓥ3_8_alpha
         'Automattic\\Jetpack\\VideoPress\\Block_Replacement' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-block-replacement.php',
         'Automattic\\Jetpack\\VideoPress\\Caption_Tracks' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-caption-tracks.php',
         'Automattic\\Jetpack\\VideoPress\\Channel' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-channel.php',
+        'Automattic\\Jetpack\\VideoPress\\Channel_Data' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-channel-data.php',
         'Automattic\\Jetpack\\VideoPress\\Data' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-data.php',
         'Automattic\\Jetpack\\VideoPress\\Divi' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/class-divi.php',
         'Automattic\\Jetpack\\VideoPress\\Divi5\\Divi_5' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-videopress/src/videopress-divi-5/class-divi-5.php',
