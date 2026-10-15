@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - Add trim and cut editing to the video block toolbar and clarify the editor tool icons.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
+- My Jetpack: Add an Available filter to the Features list.
 
 ### Changed
 - My Jetpack: Show a connection error on the Overview connection card while your account is still to be connected, instead of only asking you to connect it.
