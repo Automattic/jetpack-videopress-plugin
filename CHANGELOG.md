@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Translate the Connectors card's text on sites that don't use English.
+- My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
