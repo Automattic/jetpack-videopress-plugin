@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
 - Connection: Transfer connection ownership to another connected administrator from the Connectors page.
+- Let the Latest Videos Playlist block sort, search, filter by length and paginate, and show view counts.
 - Let the Video Playlist block show a playlist published on the site, and let the All Playlists block sort by last update and show each playlist's last update and length.
 - My Jetpack: Add an Available filter to the Features list.
 
