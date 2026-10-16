@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
 - Only open a channel video page for a video uploaded to this site.
+- Show failed conversions with delete and re-upload guidance, and retry locked resumable uploads.
 - Views trends chart: Announce the chart correctly to screen readers.
 
 ## 3.7 - 2026-10-07
