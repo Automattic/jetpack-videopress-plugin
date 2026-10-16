@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Translate the Connectors card's text on sites that don't use English.
+- My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
 - Only open a channel video page for a video uploaded to this site.
