@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add a Channel Details block to channel sites, with the channel's handle, subscribers, videos, playlists, views and start date.
 - Add a page per playlist on channel sites, with All Playlists cards linking to it and a Video Playlist block option to show the playlist being viewed.
+- Add a Playlist Details block.
 - Add a Video Details block, and let the VideoPress Video block play the newest upload.
 - Add trim and cut editing to the video block toolbar and clarify the editor tool icons.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
