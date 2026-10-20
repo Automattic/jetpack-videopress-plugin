@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
 
 ### Changed
+- Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Show a connection error on the Overview connection card while your account is still to be connected, instead of only asking you to connect it.
