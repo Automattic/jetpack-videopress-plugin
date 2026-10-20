@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 3.9-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
+
 ## 3.8 - 2026-10-20
 ### Added
 - Add a Channel Details block to channel sites, with the channel's handle, subscribers, videos, playlists, views and start date. [#53506]
