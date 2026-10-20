@@ -21,9 +21,12 @@ This is an alpha version! The changes listed here are not final.
 - Let the Latest Videos Playlist block sort, search, filter by length and paginate, and show view counts.
 - Let the Video Playlist block show a playlist published on the site, and let the All Playlists block sort by last update and show each playlist's last update and length.
 - My Jetpack: Add an Available filter to the Features list.
+- My Jetpack: Add catalog-controlled Pro offers and preserve existing plan management.
+- My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
 
 ### Changed
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
+- My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Show a connection error on the Overview connection card while your account is still to be connected, instead of only asking you to connect it.
 - Open this site's video pages from a Video Playlist in the same tab, and mark the video being viewed.
 - Settings: Match the card spacing and top margin of the other Jetpack settings screens.
