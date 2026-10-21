@@ -82,11 +82,11 @@ return array(
     ),
     'jetpack-videopress-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-videopress',
-      'ver' => '0.59.1-alpha1792576658',
+      'ver' => '0.59.1-alpha1792579384',
     ),
     'jetpack-wp-build-polyfills' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-wp-build-polyfills',
-      'ver' => '0.6.5',
+      'ver' => '0.7.0-alpha1792579384',
     ),
   ),
   'paths' => array(
