@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
 
+### Fixed
+- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
+
 ## 3.8 - 2026-10-20
 ### Added
 - Add a Channel Details block to channel sites, with the channel's handle, subscribers, videos, playlists, views and start date. [#53506]
