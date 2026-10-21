@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
+- My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 
 ## 3.8 - 2026-10-20
 ### Added
