@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
+
 ### Changed
 - Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
