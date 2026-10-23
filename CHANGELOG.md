@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
 
 ### Fixed
+- Activity Log: Show an empty date picker on the free plan, instead of a date range it does not apply.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Keep the playhead in place when adjusting trim handles.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
