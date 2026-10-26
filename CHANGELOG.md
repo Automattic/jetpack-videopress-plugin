@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Use one wording across My Jetpack and the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
+- Update package dependencies.
 
 ### Fixed
 - Activity Log: Show an empty date picker on the free plan, instead of a date range it does not apply.
