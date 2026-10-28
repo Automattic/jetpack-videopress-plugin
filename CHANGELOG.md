@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Keep the playhead in place when adjusting trim handles.
 - My Jetpack: Fix a fatal error when activating Jetpack VideoPress beside an older Jetpack plugin.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
+- My Jetpack: Show no paid plan price instead of $0 and NaN on upgrade pages with one price per plan, such as Stats, Backup, Social and VideoPress, when prices cannot be loaded.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - Video block: Attach newly uploaded videos to the post or page being edited.
