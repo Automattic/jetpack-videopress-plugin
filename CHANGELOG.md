@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Keep the playhead in place when adjusting trim handles.
+- My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fix a fatal error when activating Jetpack VideoPress beside an older Jetpack plugin.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
 - My Jetpack: Return to the tab you came from with the back link on product upgrade screens.
