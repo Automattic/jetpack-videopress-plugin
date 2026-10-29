@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Activity Log: Show an empty date picker on the free plan, instead of a date range it does not apply.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
+- Connection: Show connection owner names containing characters like & correctly.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Keep the playhead in place when adjusting trim handles.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
