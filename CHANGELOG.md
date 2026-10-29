@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
 - My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
+- Overview: Make the date range picker keyboard-navigable with arrow keys.
 - Update package dependencies.
 - Update the recommended Jetpack bundles in the plugin description.
 
