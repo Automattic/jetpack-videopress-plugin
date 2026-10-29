@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Use one wording across My Jetpack and the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
+- My Jetpack: Connect a WordPress.com account from feature cards that need one. Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make.
 - My Jetpack: On the Features tab, keep a plugin's switch busy until its card is up to date after a failed change, or after any change on sites that also run Jetpack.
 - My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
