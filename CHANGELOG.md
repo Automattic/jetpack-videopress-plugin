@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open the Jetpack Connection details on the Connectors screen from the header's Manage connection link.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
 - My Jetpack: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
+- My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Overview: Make the date range picker keyboard-navigable with arrow keys.
 - Update package dependencies.
 - Update the recommended Jetpack bundles in the plugin description.
