@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Overview: Make the date range picker keyboard-navigable with arrow keys.
+- Show the error when connecting from the pricing table fails in a notice above the table, so it no longer pushes the paid plan's button out of line.
 - Update package dependencies.
 - Update the recommended Jetpack bundles in the plugin description.
 
