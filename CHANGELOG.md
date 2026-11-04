@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Show the error when connecting from the pricing table fails in a notice above the table, so it no longer pushes the paid plan's button out of line.
 - Update package dependencies.
 - Update the recommended Jetpack bundles in the plugin description.
+- Use the design system progress bar for the upload, processing and storage meters.
 
 ### Fixed
 - Activity Log: Show an empty date picker on the free plan, instead of a date range it does not apply.
