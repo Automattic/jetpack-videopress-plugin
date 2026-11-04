@@ -40,6 +40,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
 - Connection: Show connection owner names containing characters like & correctly.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
+- Footer: Show the Features link to administrators only.
 - Keep the playhead in place when adjusting trim handles.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fix a fatal error when activating Jetpack VideoPress beside an older Jetpack plugin.
