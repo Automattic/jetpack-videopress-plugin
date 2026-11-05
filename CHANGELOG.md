@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add camera recording with selectable filters, animated controls, mirrored preview, and trim-and-cut editing before uploading from the dashboard and VideoPress block.
 - Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Make the Trim & cut editor available in the video dashboard and block editor.
+- Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
 - Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
