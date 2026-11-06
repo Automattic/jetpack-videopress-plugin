@@ -54,6 +54,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
 - Recording: Explain camera and microphone errors with steps to fix them, and retry once access is allowed.
 - Stats: Fix incorrect video statistics on sites configured to use HTML query separators.
+- Uploads: Report failures when an upload cannot be initialized.
 - Video block: Attach newly uploaded videos to the post or page being edited.
 
 ## 3.8 - 2026-10-20
