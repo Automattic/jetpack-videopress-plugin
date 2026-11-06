@@ -46,6 +46,7 @@ This is an alpha version! The changes listed here are not final.
 - Keep the playhead in place when adjusting trim handles.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fix a fatal error when activating Jetpack VideoPress beside an older Jetpack plugin.
+- My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
 - My Jetpack: Return to the tab you came from with the back link on product upgrade screens.
 - My Jetpack: Show no paid plan price instead of $0 and NaN on upgrade pages with one price per plan, such as Stats, Backup, Social and VideoPress, when prices cannot be loaded.
