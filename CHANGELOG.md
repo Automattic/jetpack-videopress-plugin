@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Overview: Make the date range picker keyboard-navigable with arrow keys.
 - Show the error when connecting from the pricing table fails in a notice above the table, so it no longer pushes the paid plan's button out of line.
+- Style the Latest Videos Playlist search, sort and length controls to match the playlist and the theme.
 - Update package dependencies.
 - Update the recommended Jetpack bundles in the plugin description.
 - Use the design system progress bar for the upload, processing and storage meters.
