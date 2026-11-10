@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add a Playlists tab to the dashboard to create, edit, publish and delete your video playlists.
 - Add camera recording with selectable filters, animated controls, mirrored preview, and trim-and-cut editing before uploading from the dashboard and VideoPress block.
+- Channels: Search finds words spoken in videos and opens them at the matching moment.
 - Connection: Note that moving a Jetpack plan is an additional step when transferring connection ownership, and link to the support doc on transferring a plan.
 - Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Make the Trim & cut editor available in the video dashboard and block editor.
