@@ -12,7 +12,7 @@
 		"automattic/jetpack-connection": "^9.17.3-alpha",
 		"automattic/jetpack-my-jetpack": "^6.18.0-alpha",
 		"automattic/jetpack-sync": "^5.5.2-alpha",
-		"automattic/jetpack-videopress": "^0.62.1-alpha",
+		"automattic/jetpack-videopress": "^0.63.0-alpha",
 		"automattic/jetpack-status": "^7.1.1"
 	},
 	"autoload": {
