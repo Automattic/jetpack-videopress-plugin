@@ -51,6 +51,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Show connection owner names containing characters like & correctly.
+- Dashboard: Show an error when a video details or privacy change is not saved, instead of reporting success.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Footer: Show the Features link to administrators only.
 - Keep the playhead in place when adjusting trim handles.
