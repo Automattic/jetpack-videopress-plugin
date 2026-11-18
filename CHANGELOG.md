@@ -41,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from the Features tab.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Overview: Make the date range picker keyboard-navigable with arrow keys.
+- Safe Mode: Show the Jetpack Safe Mode admin bar item while the choice is still pending, style it on the front end of the site too, and have it open My Jetpack from Jetpack pages that can't show the Safe Mode screen.
 - Show the error when connecting from the pricing table fails in a notice above the table, so it no longer pushes the paid plan's button out of line.
 - Style the Latest Videos Playlist search, sort and length controls to match the playlist and the theme.
 - Update package dependencies.
