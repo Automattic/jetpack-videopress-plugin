@@ -62,6 +62,7 @@ This is an alpha version! The changes listed here are not final.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Footer: Show the Features link to administrators only.
 - Keep the playhead in place when adjusting trim handles.
+- Media Library: Fix bulk-deleting many videos timing out; deletion now shows progress and lists any item that could not be deleted.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix a fatal error when activating Jetpack VideoPress beside an older Jetpack plugin.
