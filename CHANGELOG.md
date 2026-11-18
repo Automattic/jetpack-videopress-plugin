@@ -72,6 +72,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
 - Recording: Explain camera and microphone errors with steps to fix them, and retry once access is allowed.
+- Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 - Stats: Fix incorrect video statistics on sites configured to use HTML query separators.
 - Stop the upgrade screen from briefly offering Jetpack Complete before Jetpack Pro.
