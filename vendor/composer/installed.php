@@ -94,7 +94,7 @@
         'automattic/jetpack-connection' => array(
             'pretty_version' => '9.18.3-alpha.1795112338',
             'version' => '9.18.3.0-alpha1795112338',
-            'reference' => '14b85bf1d5c69b7f8789f8c11c048e08a6f08b4e',
+            'reference' => 'a86b1f41ed30ac1b01fdbd966aa75c1bb64e8731',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-connection',
             'aliases' => array(),
