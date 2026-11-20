@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
 - Dashboard: Load the Library page with fewer requests.
 - Dashboard: Load the media library only when uploading a thumbnail, so the dashboard loads less on each visit.
+- Dashboard: Show portrait videos in a tall player on the video details page instead of a small letterboxed one.
 - Dashboard: Switch the Library and Playlists between grid and table in one click.
 - My Jetpack: Connect a WordPress.com account from feature cards that need one. Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
