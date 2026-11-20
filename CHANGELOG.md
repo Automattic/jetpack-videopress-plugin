@@ -76,6 +76,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
+- Private videos: Apply the post's password check to video access.
 - Recording: Explain camera and microphone errors with steps to fix them, and retry once access is allowed.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
