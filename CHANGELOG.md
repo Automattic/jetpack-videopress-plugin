@@ -60,6 +60,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Show connection owner names containing characters like & correctly.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
+- Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Dashboard: Show an error when a video details or privacy change is not saved, instead of reporting success.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Footer: Show the Features link to administrators only.
