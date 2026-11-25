@@ -65,6 +65,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Dashboard: Show an error when a video details or privacy change is not saved, instead of reporting success.
+- Dashboard: Tell an administrator whose own WordPress.com account is not connected that only their account is missing, instead of asking them to set up VideoPress.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Footer: Show the Features link to administrators only.
 - Keep the playhead in place when adjusting trim handles.
