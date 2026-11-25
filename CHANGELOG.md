@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Show portrait videos in a tall player on the video details page instead of a small letterboxed one.
 - Dashboard: Switch the Library and Playlists between grid and table in one click.
 - Library: Always show the Upload to VideoPress button on local videos.
+- My Jetpack: Call the header's connection panel and its button "Jetpack Connection", without repeating it in the button's name during a connection error.
 - My Jetpack: Connect a WordPress.com account from feature cards that need one. Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
 - My Jetpack: Leave the recommendation to install or activate plugins included in a bundle plan out of the Jetpack menu notification badge.
