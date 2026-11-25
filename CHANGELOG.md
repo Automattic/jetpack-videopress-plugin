@@ -84,6 +84,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Return to the tab you came from with the back link on product upgrade screens.
 - My Jetpack: Show no paid plan price instead of $0 and NaN on upgrade pages with one price per plan, such as Stats, Backup, Social and VideoPress, when prices cannot be loaded.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
+- My Jetpack: Show the manual-install notice and disable the install buttons on product pricing pages when the site cannot install plugins.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
 - Private videos: Apply the post's password check to video access.
