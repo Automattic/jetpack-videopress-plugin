@@ -72,6 +72,7 @@ This is an alpha version! The changes listed here are not final.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Footer: Show the Features link to administrators only.
 - Keep the playhead in place when adjusting trim handles.
+- Keep the post from being saved or published while a video is still uploading in the VideoPress block, so the video is not lost.
 - Media Library: Fix bulk-deleting many videos timing out; deletion now shows progress and lists any item that could not be deleted.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
