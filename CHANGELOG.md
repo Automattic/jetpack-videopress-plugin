@@ -89,6 +89,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the manual-install notice and disable the install buttons on product pricing pages when the site cannot install plugins.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
+- Play private videos placed in a site template on pages without a post, such as a 404 page.
 - Private videos: Apply the post's password check to video access.
 - Recording: Explain camera and microphone errors with steps to fix them, and retry once access is allowed.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
