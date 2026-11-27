@@ -72,6 +72,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Tell an administrator whose own WordPress.com account is not connected that only their account is missing, instead of asking them to set up VideoPress.
 - Editor: Prevent timeline handles from jumping after releasing a drag outside the timeline.
 - Footer: Show the Features link to administrators only.
+- Format numbers in the site's full locale, so Traditional Chinese sites read 萬 instead of 万.
 - Keep the playhead in place when adjusting trim handles.
 - Keep the post from being saved or published while a video is still uploading in the VideoPress block, so the video is not lost.
 - Media Library: Fix bulk-deleting many videos timing out; deletion now shows progress and lists any item that could not be deleted.
